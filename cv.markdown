@@ -5,7 +5,7 @@ date: 2023-11-14 17:20:00 +04:00
 
 # Общие сведения
 
-<img title="Me" src="./me.jpg" width="250" align="right"/>
+<img title="Me" src="/uploads/me.jpg" width="250" align="right"/>
 
 ### Ткаченко Андрей Александрович
 - **Дата рождения:** 12.12.1988 (33 года)
