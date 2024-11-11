@@ -1,14 +1,9 @@
----
-title: CV
-date: 2023-11-14 17:20:00 +04:00
----
-
 # Общие сведения
 
 <img title="Me" src="/uploads/me.jpg" width="250" align="right"/>
 
 ### Ткаченко Андрей Александрович
-- **Дата рождения:** 12.12.1988 (35 года)
+- **Дата рождения:** 12.12.1988 (35 лет)
 - **Телефон для связи:** +7 987 317 99 92
 - **Email:** andrey@aidev.ru
 - **Место проживания:** г. Саратов, Российская Федерация
@@ -156,12 +151,11 @@ Rust (код доступен по <https://git.aidev.ru/andrey/deep-sort>) за
 - Июнь 2008 — Сентябрь 2010 (2 года 4 месяца)
 - Саратов, [ООО "АйТи Акцент"](http://itaccent.ru) - 
 Информационные технологии, системная интеграция, разработка программного обеспечения.
-Разработка сайтов на PHP и JavaScript.
+Разработка сайтов на PHP и JavaScript.  
 
 # Участие в публичных проектах
 - [Helix](https://github.com/helix-editor/helix) - https://github.com/helix-editor/helix/pulls?q=author%3Aandreytkachenko
 - [MilvusSDK](https://github.com/milvus-io/milvus-sdk-rust) - https://github.com/milvus-io/milvus-sdk-rust/pulls?q=author%3Aandreytkachenko
 
 # Хобби
-
 Сноубординг, Кайтсерфинг, Кайтбординг, Велопоходы, Конные походы, Скалолазание

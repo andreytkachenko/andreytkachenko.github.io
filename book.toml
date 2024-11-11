@@ -1,0 +1,6 @@
+[book]
+authors = ["Андрей Ткаченко"]
+language = "ru"
+multilingual = true
+src = "src"
+title = "AIDev"
