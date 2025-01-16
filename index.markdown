@@ -5,6 +5,7 @@ menu_list:
 - About
 - Projects
 ---
+
 - [Блог](./blog/index)
 - [CV](./cv)
 
